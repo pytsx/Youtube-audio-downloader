@@ -1,13 +1,6 @@
 This is a simple Python project for downloading videos from YouTube and converting audio files to MP3 format.
 
 
-Installation
-
-Clone the repository to your local machine.
-
-Install the required dependencies by running pip install -r requirements.txt in your terminal.
-
-
 Usage
 
 Run the main.py file.
