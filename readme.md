@@ -32,8 +32,3 @@ Contributing
 Feel free to fork the repository and make any changes you see fit. Submit a pull request if you wish to 
 contribute your changes back to the project.
 
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
